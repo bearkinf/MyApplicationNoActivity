@@ -31,4 +31,4 @@ plant uml
 
 
 import into version control -> share Project on gitHub 에 최초 프로젝트 등록
-프로젝트 명에 공백 또는 특수문자 입력 금지.
+프로젝트 명에 공백 또는 특수문자 입력 금지.공백만 금지인기???
