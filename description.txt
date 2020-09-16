@@ -1,0 +1,33 @@
+안드로이드  프로젝트 생성
+
+noActivity 시작.
+
+안드로이드 추가 기능
+
+apply plugin: 'kotlin-kapt'// kapt Annotation Processing for kotlin 는 코틀린이 자바파일의 Annotation 처리시 Kotlin 파일의 Annotation 처리를 포함합니다.
+
+
+리사이클러뷰 홀더 에서 LayoutContainer 를 사용하기위해서.
+androidExtensions {
+    experimental = true
+}
+
+안드로이드 라이브러리 추가예정.
+RecyclerView
+RxJava
+retrofit
+okhttp3
+gson
+google push service
+glide
+
+
+어떤 어플을 만들것이지 방향설정 필요.
+
+
+git 설정.
+
+plant uml
+
+
+import into version control -> share Project on gitHub 에 최초 프로젝트 등 
